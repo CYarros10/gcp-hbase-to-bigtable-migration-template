@@ -4,10 +4,10 @@
 
 ## Table Of Contents
 
-1. [Use Case](readme.md#use-case)
-2. [About](readme.md#about)
-3. [Architecture](readme.md#architecture)
-4. [Guide](readme.md#guide)
+1. [Use Case](#use-case)
+2. [About](#about)
+3. [Architecture](#architecture)
+4. [Guide](#guide)
 
 ----
 
